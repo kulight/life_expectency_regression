@@ -1,2 +1,2 @@
-# life_expectency_regression
-Life expectancy prediction
+# Life expectancy prediction
+Predicting life expectancy from WHO data
